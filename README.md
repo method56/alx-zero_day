@@ -1,1 +1,1 @@
-My first readme
+Shows how gits work
